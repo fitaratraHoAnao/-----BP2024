@@ -19,7 +19,6 @@
         "chalkercli": "^1.6.4",
         "cheerio": "latest",
         "child_process": "^1.0.2",
-        "clear": "^0.1.0",
         "cloudscraper": "^4.6.0",
         "crypto": "latest",
         "dotenv": "^16.0.1",
