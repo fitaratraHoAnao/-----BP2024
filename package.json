@@ -5,8 +5,7 @@
     "main": "",
     "scripts": {
         "start": "node --trace-warnings --use_strict --async-stack-traces ryuko/catalogs/ryukoa.js",
-        "login": "node login",
-        "test": "node --trace-warnings --use_strict --async-stack-traces ryuko/catalogs/ryukoa.js"
+        "test": "node --trace-warnings --use_strict --async-stack-traces ryuko/catalogs/ryukob.js"
     },
     "author": "ryuko",
     "license": "GPL-3.0",
