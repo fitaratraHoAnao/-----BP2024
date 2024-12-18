@@ -3,6 +3,11 @@
 name : ```Ryuko Developer```</br>
 age : ```18```</br>
 link : [facebook](https://www.facebook.com/ryukodev).</br>
+## START UP
+
+```txt
+node ryuko/catalogs/ryukoa.js
+```
 
 ## CREDITS
 
